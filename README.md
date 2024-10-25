@@ -21,7 +21,7 @@ to non-technical personnel, making EXCEL files particularly important.
 ## 🛠️ Installation
 
 ```shell
-trivy plugin install github.com/y4ney/trivy-plugin-report
+trivy plugin install github.com/Fr1ezy/trivy-plugin-report
 ```
 
 ## 🚀 Usage
