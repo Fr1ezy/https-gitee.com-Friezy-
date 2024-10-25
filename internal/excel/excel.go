@@ -7,7 +7,7 @@ import (
 	"github.com/aquasecurity/trivy/pkg/log"
 	"github.com/aquasecurity/trivy/pkg/types"
 	"github.com/xuri/excelize/v2"
-	"github.com/y4ney/trivy-plugin-report/internal/utils"
+	"github.com/Fr1ezy/trivy-plugin-report/internal/utils"
 	"golang.org/x/xerrors"
 )
 
