@@ -5,7 +5,7 @@ import (
 	"flag"
 	"github.com/aquasecurity/trivy/pkg/log"
 	"github.com/aquasecurity/trivy/pkg/types"
-	"github.com/y4ney/trivy-plugin-report/internal/excel"
+	"github.com/Fr1ezy/trivy-plugin-report/internal/excel"
 	"os"
 	"strings"
 )
