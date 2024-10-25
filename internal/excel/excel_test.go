@@ -2,7 +2,7 @@ package excel
 
 import (
 	"github.com/aquasecurity/trivy/pkg/types"
-	"github.com/y4ney/trivy-plugin-report/internal/utils"
+	"github.com/Fr1ezy/trivy-plugin-report/internal/utils"
 	"testing"
 )
 
