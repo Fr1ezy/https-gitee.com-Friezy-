@@ -1,4 +1,4 @@
-module github.com/y4ney/trivy-plugin-report
+module github.com/Fr1ezy/trivy-plugin-report
 
 go 1.22.5
 
