@@ -19,7 +19,7 @@ Trivy 可以输出多种格式的报告，但这些报告更适合技术人员�
 ## 🛠️ 安装方法
 
 ```shell
-trivy plugin install github.com/y4ney/trivy-plugin-report
+trivy plugin install gitee.com/Friezy/trivy-plugin-report
 ```
 
 ## 🚀 使用方法
